@@ -4,7 +4,7 @@
 
 /* TEAM */
   Business Card : Myles Braithwaite
-  Site: http://bus.myl.be/
+  Site: http://card.myl.be/
   Twitter: @mylesb
   Location: Toronto, Ontario
 
